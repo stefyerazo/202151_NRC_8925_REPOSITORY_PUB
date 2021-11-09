@@ -4,6 +4,7 @@ using namespace std;
 int main(){
 
 cout<< HOLA MUNDO<< endl;
+cout<< BIENVENIDOS AL MUNDO DE LA PROGRAMACION<< endl;
 
 return 0;
 }
